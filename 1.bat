@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --icon=Namify.ico --add-data "Namify.ico;." --name=Namify main.py
